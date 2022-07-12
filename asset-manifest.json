@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/independence-day-hackathon/static/css/main.ed25ffd0.chunk.css",
-    "main.js": "/independence-day-hackathon/static/js/main.020aaa36.chunk.js",
-    "main.js.map": "/independence-day-hackathon/static/js/main.020aaa36.chunk.js.map",
+    "main.js": "/independence-day-hackathon/static/js/main.c0760a7a.chunk.js",
+    "main.js.map": "/independence-day-hackathon/static/js/main.c0760a7a.chunk.js.map",
     "runtime-main.js": "/independence-day-hackathon/static/js/runtime-main.dde3e7f7.js",
     "runtime-main.js.map": "/independence-day-hackathon/static/js/runtime-main.dde3e7f7.js.map",
     "static/js/2.7030866f.chunk.js": "/independence-day-hackathon/static/js/2.7030866f.chunk.js",
@@ -48,6 +48,6 @@
     "static/js/runtime-main.dde3e7f7.js",
     "static/js/2.7030866f.chunk.js",
     "static/css/main.ed25ffd0.chunk.css",
-    "static/js/main.020aaa36.chunk.js"
+    "static/js/main.c0760a7a.chunk.js"
   ]
 }
