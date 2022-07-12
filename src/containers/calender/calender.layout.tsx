@@ -25,7 +25,7 @@ export const CalenderLayout: React.FC<CalenderLayoutProps> = ({
   return (
     <H.Container>
       <Flexbox className="card-top" flexRow>
-        <h3 style={{fontSize: 20}} color="white">
+        <h3 style={{ fontSize: 20 }} color="white">
           Events schedule {months[state.month - 1]} {state.year}
         </h3>
         <Flexbox flexRow className="card-top-inner">
@@ -35,7 +35,7 @@ export const CalenderLayout: React.FC<CalenderLayoutProps> = ({
             className="card-top-inner-item"
             onClick={() => dispatch(handleActionBack)}
           >
-            P
+            Prev
           </Flexbox>
           <Flexbox
             justifyCenter
@@ -43,7 +43,7 @@ export const CalenderLayout: React.FC<CalenderLayoutProps> = ({
             className="card-top-inner-item"
             onClick={() => dispatch(handleActionProcced)}
           >
-            N
+            Next
           </Flexbox>
         </Flexbox>
       </Flexbox>

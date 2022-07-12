@@ -12,7 +12,7 @@ export const Container = styled.div`
   margin: 20px 0;
 
   .card-top {
-    background-color: #b2b2b2;
+    background-color: #263566;
     height: 80px;
     border-radius: 8px 8px 0 0;
     padding: 0 5%;

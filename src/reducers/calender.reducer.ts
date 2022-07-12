@@ -43,7 +43,9 @@ export const calenderReducer = (
 
     case 'MONTH_BACKWARD': {
       if(state.month === 1) 
-        return {...state, month: 12, year: state.year - 1 }
+        return {
+          ...state, month: 12, year: state.year - 1 
+        }
       return {...state, month: state.month - 1};
     }
     default:

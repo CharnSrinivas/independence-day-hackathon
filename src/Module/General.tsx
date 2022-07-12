@@ -34,16 +34,15 @@ import zoha from "./Assets/teami/zoha.png";
 
 
 const TOP_SECTION = {
-  TITLE: "Join Limbo Hacks",
+  TITLE: "Join Independence Day Hackathon",
   Typed_effect: ["24 hours of creation", "Win awesome prizes"],
   SHORT_DESCRIPTION:
-    "Join us on 20th November 2021 with over 300 students from across the nation for 24 hours of creation, innovation, & fun.",
+    "Join us on 13th August 2022 with over 100 students from across the nation for 24 hours of creation, innovation, & fun.",
   IMG_SRC: boy,
-  DISCORD_LINK: "",
+  DISCORD_LINK: "#",
   JUDGES_FORM_LINK:
-    "https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAN__jZdNhdUNVRQMUg4VllMRURDN1lON0haNFVCQUgySC4u",
-  HACKERS_REGISTRATION_FORM_LINK:
-    "https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAN__jZdNhdUNTgyREk0VzdEMU9RVFlPMVNWVEJQUkNYMi4u"
+    "#",
+  HACKERS_REGISTRATION_FORM_LINK: "#"
 };
 
 const SOCIALS = {
@@ -57,9 +56,9 @@ const SOCIALS = {
 };
 
 const MIDDLE_SECTION = {
-  TITLE: "What is Limbo hacks?",
+  TITLE: "What is Independence Day Hackathon?",
   LONG_DESCRIPTION:
-    "Hack Limbo is 24 hour long running hackathon will be held on November 20th & 21th , We calls for hackers, artists, coders, designers, tech evangelists, creatives, and developers from all disciplines to take a part to win awesome prizes and collaborate with other developers . Throughout the weekend hackers at Limbo Hacks will have unique opportunities to learn from each other trying hands in new technologies We are determined to have an all-inclusive and diverse group of students attending.",
+    "Independence Day is 24 hour long running hackathon will be held on November 20th & 21th , We calls for hackers, artists, coders, designers, tech evangelists, creatives, and developers from all disciplines to take a part to win awesome prizes and collaborate with other developers . Throughout the weekend hackers at Limbo Hacks will have unique opportunities to learn from each other trying hands in new technologies We are determined to have an all-inclusive and diverse group of students attending.",
   LOGO_EFFECT: true,
   LOGO: ""
 };
@@ -92,14 +91,14 @@ const FOOTER = {
  */
 
 const calenderStartingDate = {
-  month: 12,
-  year: 2021
+  month: 8,
+  year: 2022
 }
 
 
  const schedule = [
   {
-      "day": "8-11-2021",
+      "day": "13-8-2022",
       "events": [
           {
               "title": "Intro to phycycology",
@@ -109,7 +108,7 @@ const calenderStartingDate = {
       ]
   },
   {
-      "day": "5-12-2021",
+      "day": "14-8-2022",
       "events": [
           {
               "title": "Intro to deep learning",
@@ -124,7 +123,7 @@ const calenderStartingDate = {
       ]
   },
   {
-      "day": "3-12-2021",
+      "day": "15-8-2022",
       "events": [
           {
               "title": "Intro to phycycology",
@@ -133,26 +132,6 @@ const calenderStartingDate = {
           }
       ]
   },
-  {
-      "day": "1-12-2021",
-      "events": [
-          {
-              "title": "Intro to deep learning",
-              "timings": "12 AM - 1 Pm",
-              "link" : "https://google.com"
-          }
-      ]
-  },
-  {
-    "day": "1-1-2022",
-    "events": [
-        {
-            "title": "Intro to phycycology",
-            "timings": "12 AM - 1 Pm",
-             "link" : "https://google.com"
-        }
-    ]
-},
 ]
 
 

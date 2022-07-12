@@ -22,17 +22,17 @@ function Logo() {
   if (MIDDLE_SECTION.LOGO_EFFECT) {
     myLogo = (
       <div className="logoS">
-        <img className="Logo sym" src={sym} alt="Limbohacks" />
-        <img className="Logo logo1" src={logo1} alt="Limbohacks" />
-        <img className="Logo logo2" src={logo2} alt="Limbohacks" />
-        <img className="Logo logo3" src={logo3} alt="Limbohacks" />
+        <img className="Logo sym" src={sym} alt="Independence Day Hackathon" />
+        <img className="Logo logo1" src={logo1} alt="Independence Day Hackathon" />
+        <img className="Logo logo2" src={logo2} alt="Independence Day Hackathon" />
+        <img className="Logo logo3" src={logo3} alt="Independence Day Hackathon" />
       </div>
     );
   } else {
     myLogo = (
       <div className="logoS">
-        <img className="Logo sym" src={sym} alt="Limbohacks" />
-        <img className="Logo logo1" src={logo1} alt="Limbohacks" />
+        <img className="Logo sym" src={sym} alt="Independence Day Hackathon" />
+        <img className="Logo logo1" src={logo1} alt="Independence Day Hackathon" />
       </div>
     );
   }
